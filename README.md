@@ -1,8 +1,8 @@
 # Adafruit NFC ST25DV16 URL Write
 
-[!image](images/QTPY-ST25DV16.jpeg)
+![image](images/QTPY-ST25DV16.jpeg)
 <br>
-[!image](images/NFCdetected-ios Medium.jpeg)
+![image](images/NFCdetected-ios Medium.jpeg)
 <br>
 
 
